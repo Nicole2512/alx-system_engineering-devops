@@ -1,1 +1,1 @@
-This file has cmands to perform basic shell operations
+This file has commands to perform basic shell operations
